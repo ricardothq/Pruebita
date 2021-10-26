@@ -7,4 +7,8 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = programa
+<<<<<<< HEAD
 build_property.ProjectDir = c:\Users\assi\Desktop\GIT\Pruebita\programa\
+=======
+build_property.ProjectDir = c:\Users\USUARIO\Desktop\git\Pruebita\programa\
+>>>>>>> c89b1b51c0f2869154226f9d4711c902be712477
