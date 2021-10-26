@@ -12,6 +12,8 @@ namespace programa
             Console.WriteLine("VIRUUUUUSSSS");
 
             Console.WriteLine("mauri gay");
+
+            //malamia asdasdasd
         }
     }
 }
