@@ -10,6 +10,7 @@ namespace programa
 
             Console.WriteLine("Hello World!");
             Console.WriteLine("VIRUUUUUSSSS");
+            Console.WriteLine("No soy un virus");
         }
     }
 }
