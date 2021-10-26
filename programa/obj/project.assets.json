@@ -8,23 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\USUARIO\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\MSI GL65 95EK\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USUARIO\\Desktop\\git\\Pruebita\\programa\\programa.csproj",
+      "projectUniqueName": "C:\\Users\\MSI GL65 95EK\\Desktop\\GIT\\Pruebita\\programa\\programa.csproj",
       "projectName": "programa",
-      "projectPath": "C:\\Users\\USUARIO\\Desktop\\git\\Pruebita\\programa\\programa.csproj",
-      "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USUARIO\\Desktop\\git\\Pruebita\\programa\\obj\\",
+      "projectPath": "C:\\Users\\MSI GL65 95EK\\Desktop\\GIT\\Pruebita\\programa\\programa.csproj",
+      "packagesPath": "C:\\Users\\MSI GL65 95EK\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\MSI GL65 95EK\\Desktop\\GIT\\Pruebita\\programa\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\MSI GL65 95EK\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
